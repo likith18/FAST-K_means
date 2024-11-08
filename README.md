@@ -48,6 +48,3 @@ Adjust the model parameters by modifying `ClusteringConfig` in `main.py`. This a
 - The range for the number of clusters (`min_clusters` and `max_clusters`).
 - Model name for embeddings (`model_name`).
 - Batch size and device for computation.
-
-## Logging
-Logs are generated to track the model's execution process, errors, and warnings, providing better debugging support.
